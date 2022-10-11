@@ -10,6 +10,13 @@ Regime Based Asset Allocation with Random Forest and Bayesian Inference
    * Mean-CDaR Portfolio Optimization
    * Backtest
 
+Data sources: Fred, Yahoo Finance
+
+Required libraries:
+* XGBoost
+* Riskfolio
+* Fredapi
+
 ![alt text](https://github.com/enexqnt/RBAA/blob/main/images/wealth.png)
 ![alt text](https://github.com/enexqnt/RBAA/blob/main/images/forecast.png)
 ![alt text](https://github.com/enexqnt/RBAA/blob/main/images/sharpe.png)
