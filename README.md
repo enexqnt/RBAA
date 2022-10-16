@@ -1,7 +1,7 @@
 # RBAA
 A Regime Based Asset Allocation framework with Random Forest, Baeysian Inference and Modern Portfolio Theory.
 
-1. Prediction with Random Forest and Genetic Algorithm:
+1. Prediction with Random Forest:
     * [Inflation 12 months ahead YoY inflation](https://github.com/enexqnt/RBAA/blob/main/Forecast%20-%20Inflation.ipynb) and [Recession nowcasting](https://github.com/enexqnt/RBAA/blob/main/Forecast%20-%20Recession.ipynb) (for out-of sample regime classification)
     * [One-month ahead asset returns](https://github.com/enexqnt/RBAA/blob/main/Forecast%20-%20Assets.ipynb)
 2. [Portfolio Optimization](https://github.com/enexqnt/RBAA/blob/main/RBAA.ipynb)
